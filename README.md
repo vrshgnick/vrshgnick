@@ -1,7 +1,7 @@
 <h1 align="center"> 👋 Welcome 👋
 <h3 align="center">I'm a student from Russia</h3>
 
-- 🌱 I’m currently learning **Fluttet, Python and Java**
+- 🌱 I’m currently learning **Flutter, Python and Java**
 
 - 📫 How to reach me - **vrshgnick@gmail.com**
 
