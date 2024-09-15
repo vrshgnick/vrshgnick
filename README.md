@@ -1,8 +1,14 @@
-<h1 align="center"> 👋 Welcome 👋
-
-<img src="https://www.meme-arsenal.com/memes/8ad4a94321f56451d28531c966798351.jpg">
+<h1 align="center">
+  👋 Welcome 👋
+</h1>
   
-<h3 align="center">I'm a student from Russia</h3>
+<h3 align="center">I'm a student from Russia
+
+<br>
+<br>
+
+<img src="https://i.gifer.com/origin/90/904dc47073b83d6dfe7a926bfc561ea2_w200.gif">
+</h3>
 
 - 🌱 I’m currently learning **Flutter, Python and Java**
 
