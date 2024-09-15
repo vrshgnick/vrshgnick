@@ -2,7 +2,7 @@
   👋 Welcome 👋
 </h1>
   
-<h3 align="center">I'm a student from Russia
+<h3 align="center">I'm a student from Russia.
 
 <br>
 <br>
