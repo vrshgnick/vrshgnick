@@ -2,7 +2,7 @@
   👋 Welcome 👋
 </h1>
   
-<h3 align="center">I'm a student from Russia.
+<h3 align="center">I'm a student at Vononezh State University.
 
 <br>
 <br>
@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Flutter, Python and Java**
 
-- 📫 How to reach me - **vrshgnick@gmail.com**
+- 📫 How to reach me - vrshgnick@gmail.com / [telegram](https://t.me/vrshgnick)
 
 </p>
 
