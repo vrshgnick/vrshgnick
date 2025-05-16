@@ -1,14 +1,13 @@
 <h1 align="center">
   👋 Welcome 👋
 </h1>
-  
-<h3 align="center">I'm a student at Vononezh State University.
+
+<p align="center">
 
 <br>
 <br>
 
 <img src="https://i.gifer.com/origin/90/904dc47073b83d6dfe7a926bfc561ea2_w200.gif">
-</h3>
 
 - 🌱 I’m currently learning **Flutter, Python and Java**
 
