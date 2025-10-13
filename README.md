@@ -9,8 +9,6 @@
 
 <img src="https://i.gifer.com/origin/90/904dc47073b83d6dfe7a926bfc561ea2_w200.gif">
 
-- 🌱 I’m currently learning **Flutter, Python and Java**
-
 - 📫 How to reach me - vrshgnick@gmail.com / [telegram](https://t.me/vrshgnick)
 
 </p>
